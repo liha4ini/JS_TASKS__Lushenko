@@ -1,1 +1,1 @@
-# JS_TASKS__Lushenko
+# various programming tasks
